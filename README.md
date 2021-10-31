@@ -1,14 +1,15 @@
 ﻿# CPP_darbs_DP22
 
 ## Apraksts
-	Programma rādīs smieklīgus attēlus, kamēr fona skanēs mūzika.
+	Programma rādīs trijstūri vai kvadrātu, kurš mainīsies krāsās.
 
 ## Galvenās Funkcijas
-	Spiest pogu lai varētu rādīt nākamo smieklīgo attēlu.
+	Varēs nomainīt kādu figūru rāda programma.
 
 ## Izmantotās tehnoloģijas
 	C++
-	SFML library
+	Vulkan graphics API
 
 ## Izmantotie avoti
-	[SFML dokumentācija](https://www.sfml-dev.org/style.php)
+	[Vulkan apraksts Vikipēdijā](https://en.wikipedia.org/wiki/Vulkan_(API)
+	[Vulkan SDK lejupielādes mājaslapa](https://www.lunarg.com/vulkan-sdk/)
