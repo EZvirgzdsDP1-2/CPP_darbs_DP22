@@ -1,7 +1,7 @@
 ﻿# CPP_darbs_DP22
 
 ## Apraksts
-	Programma rādīs trijstūri vai kvadrātu, kurš mainīsies krāsās.
+	Programma rādīs 3D trijstūri vai kvadrātu, kurš mainīsies krāsās.
 
 ## Galvenās Funkcijas
 	Varēs nomainīt kādu figūru rāda programma ar pogu.
